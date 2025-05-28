@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>AFara Natural Skincare</title>
+  <link href="https://fonts.googleapis.com/css2?family=Rundeck&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- Floating Leaves will be created by JavaScript -->
+
+  <header>
+    <h1>AFara</h1>
+    <p><b>Crafted by Nature, Loved by Skin</b></p>
+  </header>
+
+  <nav>
+    <a href="#about">About</a>
+    <a href="#products">Products</a>
+    <a href="#contact">Contact</a>
+  </nav>
+
+  <section id="about">
+    <h2>About AFara</h2>
+    <p>AFara is a celebration of nature’s purity and your skin’s natural beauty. We craft gentle, plant-powered skincare designed to nourish, heal, and enhance — with zero compromise on quality, ethics, or sustainability.</p>
+    <p>Using AFara means choosing skin that feels alive, vibrant, and naturally cared for. Our products are free from harsh chemicals and synthetic additives, making them ideal for sensitive skin.</p>
+  </section>
+
+  <section id="products">
+    <h2>Our Products</h2>
+    <div class="products">
+      <div class="product-card">
+        <img src="https://via.placeholder.com/300x200" alt="Herbal Soap">
+        <h3>Herbal Soap</h3>
+        <a href="#">View Product</a>
+      </div>
+      <div class="product-card">
+        <img src="https://via.placeholder.com/300x200" alt="Ubtan Powder">
+        <h3>Ubtan Powder</h3>
+        <p><em>Coming Soon</em></p>
+      </div>
+      <div class="product-card">
+        <img src="https://via.placeholder.com/300x200" alt="Face Wash">
+        <h3>Face Wash</h3>
+        <p><em>Coming Soon</em></p>
+      </div>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email us at: <strong>afaracares@gmail.com</strong></p>
+    <p>Follow us on Instagram: <a href="https://instagram.com/afara_cares" target="_blank"><strong>@afara_cares</strong></a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 AFara Skincare. All rights reserved.
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
